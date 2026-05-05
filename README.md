@@ -1,4 +1,4 @@
-# Clima-Case | Temperature & Humidity Prediction
+# Clima-Cast | Temperature & Humidity Prediction
 
 A Python script that loads IoT sensor CSV files, trains a neural‑network model
 (MLPRegressor) to predict temperature and humidity, and visualises actual vs.
